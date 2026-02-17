@@ -12,8 +12,14 @@
         <option value="$PROJECT_DIR$/microservices/condidature/pom.xml" />
         <option value="$PROJECT_DIR$/microservices/job/pom.xml" />
         <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/Course/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/Event/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/Group/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/Package/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/User/pom.xml" />
+        <option value="$PROJECT_DIR$/Gateway/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="openjdk-23" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
 </project>
